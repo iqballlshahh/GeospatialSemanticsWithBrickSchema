@@ -1,6 +1,6 @@
 Steps:
 1) Download and install the Unity asset from https://assetstore.unity.com/packages/tools/modeling/geospatial-semantics-brickschema-integration-280102 (this unlocks features a and b below)
-2) Download both exe files and .cs files from this git repo and place it into your Unity project's Assets folder to unlock features (c and d)
+2) Download both exe files and .dll files from this git repo and place it into your Unity project's Assets folder to unlock features (c and d listed below)
 
 
 BACKGROUND:
