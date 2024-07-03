@@ -18,4 +18,4 @@ INSTRUCTIONS:
 2) Else, you can download the unity package file in this repo, and import it into your Unity Project
 3) This asset can be found in the Unity Asset Store named "Geospatial Semantics-BrickSchema Integration"
 
-Also, do visithttps://brickschema.org/ as the BrickSchema stuff we incorporated builds upon their work
+Also, do visit https://brickschema.org/ as the BrickSchema stuff we incorporated builds upon their work
